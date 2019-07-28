@@ -1,4 +1,9 @@
-//[![PyPI version](https://badge.fury.io/py/image-classifiers.svg)](https://badge.fury.io/py/image-classifiers) [![Build Status](https://travis-ci.com/qubvel/classification_models.svg?branch=master)](https://travis-ci.com/qubvel/classification_models) 
+# Fork
+
+This is a fork of `qubvel/classification_models` with the Keras library changed from `keras` to `tensorflow.keras`
+
+---
+
 # Classification models Zoo
 Trained on [ImageNet](http://www.image-net.org/) classification models. [Keras](https://keras.io/).
 
